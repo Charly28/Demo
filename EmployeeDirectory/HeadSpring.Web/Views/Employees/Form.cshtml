@@ -1,0 +1,121 @@
+﻿
+@{
+    ViewBag.Title = "Employee";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using HeadSpring.Core.Models
+@using HeadSpring.Web.App_GlobalResources
+@model EmployeeDto
+
+<h2>Employee</h2>
+<br />
+
+<div class="container">
+    @using (Html.BeginForm(null, null, FormMethod.Post, new { id = "Employees-form" }))
+    {
+        <div class="row">
+            <div class="col-md-6">
+                <div id="toolbar-Employees" class="alert toolbar">
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-sm-4">
+                @Html.Label("Name:")
+                @Html.TextBoxFor(x => x.Name, new { data_bind = "value:Name", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-sm-4">
+                @Html.Label("Last Name:")
+                @Html.TextBoxFor(x => x.LastName, new { data_bind = "value:LastName", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-sm-4">
+                @Html.Label("Mother Last Name:")
+                @Html.TextBoxFor(x => x.MotherLastName, new { data_bind = "value:MotherLastName", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.MotherLastName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="row">
+            <br />
+        </div>
+        <div class="row">
+            <div class="col-sm-4">
+                @Html.Label("Email:")
+                @Html.TextBoxFor(x => x.Email, new { data_bind = "value:Email", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-sm-4">
+                @Html.Label("Phone:")
+                @Html.TextBoxFor(x => x.Phone, new { data_bind = "value:Phone", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+            </div>
+            <div class="col-sm-4">
+                @Html.Label("Location:")
+                @Html.TextBoxFor(x => x.Location, new { data_bind = "value:Location", @class = "form-control" })
+                @Html.ValidationMessageFor(m => m.Location, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="row">
+            <br />
+        </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    @Html.Label("Job Title:")
+                    @Html.TextBoxFor(x => x.JobTitle, new { data_bind = "value:JobTitle", @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.JobTitle, "", new { @class = "text-danger" })
+                </div>
+                <div class="col-sm-4">
+                    @Html.Label("Requires User:")
+                    <br />
+                    @Html.CheckBoxFor(x => x.RequiresUser, new { id = "RequiresUser", data_bind = "bootstrapToggle:RequiresUser" })
+                    @Html.ValidationMessageFor(m => m.RequiresUser, "", new { @class = "text-danger" })
+                </div>
+                <div class="col-sm-4">
+                    @Html.Label("Role:")
+                    @Html.DropDownListFor(x => x.RoleName, new[]
+            {
+                new SelectListItem {Value = String.Empty, Text = String.Empty, Selected = true},
+                new SelectListItem {Value = "Admin", Text = Global.Administrator},
+                new SelectListItem {Value = "HR", Text =  Global.HR},
+                new SelectListItem {Value = "Info", Text = Global.Info},
+            },
+                new { id = "RoleName", data_bind = "value: RoleName", @class = "form-control" })
+                    @Html.ValidationMessageFor(m => m.RoleName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row">
+                <br />
+            </div>
+            <div class="row">
+                <div class="col-sm-4">
+                    @Html.Label("Active:")
+                    <br />
+                    @Html.CheckBoxFor(x => x.Active, new { id = "Active", data_bind = "bootstrapToggle:Active" })
+                    @Html.ValidationMessageFor(m => m.Active, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="row">
+                <br />
+            </div>
+            <div class="row">
+                <div class="col-sm-12 text-right">
+                    <button id="btnSave" type="submit" class="btn btn-primary">Save</button>
+                    <button id="btnCancel" type="button" class="btn btn-secondary">Close</button>
+                </div>
+            </div>
+    }
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            HeadSpring.Employees.Form.Init();
+        });
+
+    </script>
+}
+

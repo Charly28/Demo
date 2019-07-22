@@ -1,0 +1,65 @@
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.dll.config
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.Global.resources
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csproj.GenerateResource.Cache
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.Global.resources
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csproj.GenerateResource.Cache
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Core.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\HeadSpring.Data.dll.config
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\WebApp.Common.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\EntityFramework.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Interception.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Ninject.Extensions.Logging.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.Global.resources
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csproj.GenerateResource.Cache
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csproj.CoreCompileInputs.cache
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csprojAssemblyReference.cache
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Core\obj\Debug\HeadSpring.Core.csproj.CopyComplete

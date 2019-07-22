@@ -1,0 +1,70 @@
+﻿@using HeadSpring.Web.Infrastructure
+@{
+    ViewBag.Title = "Employee's List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Employees</h2>
+<br />
+
+<div class="container">
+    <div class="row">
+        <div id="toolbar-List" class="col-md-6 text-left alert toolbar">
+
+        </div>
+        <div class="col-sm-6 text-right">
+            @Html.Toolbar()
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            <label>Name:</label>
+            <input type="text" class="form-control" id="name-filter">
+        </div>
+        <div class="col-sm-4">
+            <label>Last Name:</label>
+            <input type="text" class="form-control" id="lastName-filter">
+        </div>
+        <div class="col-sm-4">
+            <label>Email:</label>
+            <input type="text" class="form-control" id="email-filter">
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-sm-4">
+            <label>Location:</label>
+            <input type="text" class="form-control" id="location-filter">
+        </div>
+        <div class="cell-small">
+            <div class="col-sm-4">
+                <label>Estatus</label>
+                <select id="active-dropdown" class="form-control">
+                    <option value="" selected></option>
+                    <option value="1">Active</option>
+                    <option value="0">Inactive</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-sm-12 text-right">
+            <button id="btnSearch" type="button" class="btn btn-primary">Search</button>
+            <button id="btnReload" type="button" class="btn btn-secondary">Clean</button>
+        </div>
+    </div>
+    <br />
+    <table id="employees-Grid"></table>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            HeadSpring.Employees.Init();
+        });
+
+    </script>
+}
+

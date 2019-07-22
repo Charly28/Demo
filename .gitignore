@@ -1,0 +1,13 @@
+EmployeeDirectory/packages/
+EmployeeDirectory/EmployeeDirectory/bin/
+EmployeeDirectory/EmployeeDirectory/obj/
+*.orig
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.suo
+*.user
+*.dbmdl
+*.jfm
+*.Database.jfm

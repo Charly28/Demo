@@ -1,0 +1,14 @@
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.dacpac
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Database\obj\Debug\HeadSpring.Database.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Database\obj\Debug\HeadSpring.Database.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.dacpac
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\bin\Debug\HeadSpring.Database.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\Model.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\refactor.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\postdeploy.sql
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\predeploy.sql
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\HeadSpring.Database.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Database\obj\Debug\HeadSpring.Database.pdb

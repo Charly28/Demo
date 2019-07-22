@@ -1,0 +1,108 @@
+﻿
+@{
+    ViewBag.Title = "Employee Information";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using HeadSpring.Core.Models
+@using HeadSpring.Web.App_GlobalResources
+@model EmployeeDto
+
+<h2> Employee Information</h2>
+<br />
+
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-6">
+            <div id="toolbar-InfoEmployees" class="alert toolbar">
+            </div>
+        </div>
+    </div>
+    <br />
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.Label("Name:")
+            @Html.TextBoxFor(x => x.Name, new { data_bind = "value:Name", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Last Name:")
+            @Html.TextBoxFor(x => x.LastName, new { data_bind = "value:LastName", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Mother Last Name:")
+            @Html.TextBoxFor(x => x.MotherLastName, new { data_bind = "value:MotherLastName", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+    <div class="row">
+        <br />
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.Label("Email:")
+            @Html.TextBoxFor(x => x.Email, new { data_bind = "value:Email", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Phone:")
+            @Html.TextBoxFor(x => x.Phone, new { data_bind = "value:Phone", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Location:")
+            @Html.TextBoxFor(x => x.Location, new { data_bind = "value:Location", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+    <div class="row">
+        <br />
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.Label("Job Title:")
+            @Html.TextBoxFor(x => x.JobTitle, new { data_bind = "value:JobTitle", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Requires User:")
+            <br />
+            @Html.CheckBoxFor(x => x.RequiresUser, new { id = "RequiresUser", data_bind = "bootstrapToggle:RequiresUser", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+        <div class="col-sm-4">
+            @Html.Label("Role:")
+            @Html.DropDownListFor(x => x.RoleName, new[]
+            {
+                new SelectListItem {Value = String.Empty, Text = String.Empty, Selected = true},
+                new SelectListItem {Value = "Admin", Text = Global.Administrator},
+                new SelectListItem {Value = "HR", Text =  Global.HR},
+                new SelectListItem {Value = "Info", Text = Global.Info},
+            },
+                new { id = "RoleName", data_bind = "value: RoleName", @class = "form-control", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+    <div class="row">
+        <br />
+    </div>
+    <div class="row">
+        <div class="col-sm-4">
+            @Html.Label("Active:")
+            <br />
+            @Html.CheckBoxFor(x => x.Active, new { id = "Active", data_bind = "bootstrapToggle:Active", @disabled = "disabled", @readonly = "readonly" })
+        </div>
+    </div>
+    <div class="row">
+        <br />
+    </div>
+    <div class="row">
+        <div class="col-sm-12 text-right">
+            <button id="btnCancel" type="button" class="btn btn-secondary">Close</button>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            HeadSpring.Employees.Info.Init();
+        });
+
+    </script>
+}
+

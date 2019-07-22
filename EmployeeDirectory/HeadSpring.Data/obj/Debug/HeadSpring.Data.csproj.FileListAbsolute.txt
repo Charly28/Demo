@@ -1,0 +1,32 @@
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll.config
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.dll
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.pdb
+C:\Users\Desarrollo MV1\Documents\Bitbucket\Headspring\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll.config
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.pdb
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.dll
+C:\Users\Carlos\Documents\Bitbucket\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll.config
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\HeadSpring.Data.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.csproj.CoreCompileInputs.cache
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.dll
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.pdb
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.csprojAssemblyReference.cache
+D:\Proyectos\Skill\EmployeeDirectory\HeadSpring.Data\obj\Debug\HeadSpring.Data.csproj.CopyComplete

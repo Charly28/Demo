@@ -1,0 +1,49 @@
+﻿@using HeadSpring.Web.Models
+@model LoginViewModel
+@{
+    ViewBag.Title = "Log in";
+}
+@Styles.Render("~/Content/css")
+
+<div class="wrapper">
+    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-signin", role = "form" }))
+    {    @Html.AntiForgeryToken()
+        <p class="text-center">
+            <img id="img-Login" src="~/Content/Images/login.png" />
+        </p>
+        <br />
+        @Html.Label("Email:")
+        @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger", @placeholder = "Email" })
+        <br />
+        @Html.Label("Password:")
+        @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger", @placeholder = "Password" })
+        <label class="checkbox">
+            @Html.CheckBoxFor(m => m.RememberMe)
+            @Html.LabelFor(m => m.RememberMe)
+        </label>
+        @Html.ActionLink("¿Did you forgot your password?", "ForgotPassword")
+        <br />
+        <br />
+        <input type="submit" value="Log in" class="btn btn-lg btn-primary btn-block text-center" />
+        <br />
+        <div class="row">
+            <div class="col-sm-11">
+                @if (!string.IsNullOrWhiteSpace(ViewBag.InvalidLogin))
+                {
+                    <div class="alert alert-danger text-center">
+                        <button type="button" class="close" data-dismiss="alert">×</button>
+                        <p>@ViewBag.InvalidLogin</p>
+                    </div>
+                }
+            </div>
+
+        </div>
+
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
