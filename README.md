@@ -10,6 +10,10 @@ This repository is meant to be a starting point for creating an employee directo
    NOTE: You will want to make sure package restore is turned on
 4. Run all sql scripts from Database Project
 
+5. Update Web Config Files for using your SQL Connection.
+
+6. Login with the next Default credentials:
+
      **username:** admin@example.com
 
      **password:** Pruebas123!
